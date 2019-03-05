@@ -4,7 +4,7 @@ NOTE: This is NOT rosegraphics -- it is your OWN Line class.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
+         and Mike Stevens.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import math
